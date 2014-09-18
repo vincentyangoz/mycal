@@ -1,4 +1,4 @@
 mycal
 =====
 
-A calculator project with phonegap
+A calculator project with phonegap.
